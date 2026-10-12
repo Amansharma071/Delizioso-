@@ -37,9 +37,10 @@ restaurant-website/
 2. Double-click `index.html` in your file explorer, or
 3. Run a local web server from the project directory:
 
-```bash
+<!-- ```bash
 python -m http.server 8000
-```
+``` -->
+Hello 
 
 Then open:
 
